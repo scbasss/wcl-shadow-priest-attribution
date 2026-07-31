@@ -1,0 +1,42 @@
+{
+  "primary_report": {
+    "code": "vC7pWDNr2fMgALT9",
+    "label": "Raid evaluation",
+    "compare_warlocks": ["Doslock", "Xayi", "Tharimwl"]
+  },
+  "zone_rankings_url": "https://classic.warcraftlogs.com/zone/rankings/1011?metric=speed&partition=4",
+  "top10_groups": [
+    {
+      "instance": "BT",
+      "title": "Black Temple - Top 10 (Speed)",
+      "raids": [
+        { "rank": 1, "guild": "Karma", "realm": "Firemaw (EU)", "time": "1:16:25", "date": "2022-02-13", "code": "49tryLFd6v13K8Gc" },
+        { "rank": 2, "guild": "TNB", "realm": "Bu Lu (CN)", "time": "1:17:43", "date": "2022-02-12", "code": "gMaJryd4V8ZAKYnv" },
+        { "rank": 3, "guild": "Ting Xiang Shui Xie", "realm": "Bu Lu (CN)", "time": "1:19:42", "date": "2022-02-13", "code": "PHwWfMgYQtnrFc69" },
+        { "rank": 4, "guild": "SALAD BAKERS", "realm": "Gehennas (EU)", "time": "1:21:07", "date": "2022-02-09", "code": "3v8yLDfMw1QbYdZx" },
+        { "rank": 5, "guild": "Kai Wanxiao De Haha", "realm": "Nu Lu (CN)", "time": "1:21:44", "date": "2022-02-16", "code": "GWNjXCPRHg1rfMn6" },
+        { "rank": 6, "guild": "Statement", "realm": "Venoxis (EU)", "time": "1:22:15", "date": "2022-02-13", "code": "jtbgwChndT6a423B" },
+        { "rank": 7, "guild": "Bei Yiwang De Tuteng", "realm": "Ao Jinfu (CN)", "time": "1:23:13", "date": "2022-02-15", "code": "JVc2631G4vwagyKd" },
+        { "rank": 8, "guild": "R3 Karma", "realm": "Firemaw (EU)", "time": "1:23:35", "date": "2022-02-14", "code": "ktgHCv6qmpVPxT7a" },
+        { "rank": 9, "guild": "Reckless", "realm": "Ha Huolan (CN)", "time": "1:24:36", "date": "2022-02-10", "code": "972Jm8nHfcQ6PBzb" },
+        { "rank": 10, "guild": "Jinzita", "realm": "Zhen Dizhe (CN)", "time": "1:26:04", "date": "2022-02-16", "code": "vFNZB2GDkHPaJnXK" }
+      ]
+    },
+    {
+      "instance": "Hyjal",
+      "title": "Mount Hyjal - Top 10 (Speed)",
+      "raids": [
+        { "rank": 1, "guild": "Ting Xiang Shui Xie", "realm": "Bu Lu (CN)", "time": "40:31", "date": "2022-02-13", "code": "9mkn1fw6LTjdQpqb" },
+        { "rank": 2, "guild": "TNB", "realm": "Bu Lu (CN)", "time": "42:25", "date": "2022-02-12", "code": "8cnDHpJLXtvWbgdw" },
+        { "rank": 3, "guild": "Ting Xiang Shui Xie Man Su Tuan", "realm": "Bu Lu (CN)", "time": "42:32", "date": "2022-02-15", "code": "1dn9vazKW74qhpVr" },
+        { "rank": 4, "guild": "Bei Yiwang De Tuteng", "realm": "Ao Jinfu (CN)", "time": "43:36", "date": "2022-02-15", "code": "jfTC9t2HdJqbWKQw" },
+        { "rank": 5, "guild": "Progress", "realm": "Gehennas (EU)", "time": "44:31", "date": "2022-01-27", "code": "6xFy14paWBt7wDz9" },
+        { "rank": 6, "guild": "Dreamstate", "realm": "Gehennas (EU)", "time": "44:54", "date": "2022-02-13", "code": "Ddf6wqTCbHKcJVyt" },
+        { "rank": 7, "guild": "GuGu Baohu Xiehui", "realm": "Wei Xidusi (CN)", "time": "45:09", "date": "2022-02-16", "code": "1cRNqw8H3B9rDyYJ" },
+        { "rank": 8, "guild": "Calamity", "realm": "Gehennas (EU)", "time": "45:11", "date": "2022-01-27", "code": "cWAnTzRtfaw98XJv" },
+        { "rank": 9, "guild": "Kai Wanxiao De Haha", "realm": "Nu Lu (CN)", "time": "45:26", "date": "2022-02-12", "code": "RjzC3bABx6anVyKN" },
+        { "rank": 10, "guild": "Statement", "realm": "Venoxis (EU)", "time": "45:30", "date": "2022-01-27", "code": "ZFM2gb8tYrRha3cW" }
+      ]
+    }
+  ]
+}

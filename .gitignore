@@ -1,0 +1,21 @@
+# Credentials - never commit these
+wcl_user_token.json
+scripts/wcl_user_token.json
+*.env
+.env
+
+# Generated data and output - regenerable from the scripts, and can be large
+data/
+output/
+*.xlsx
+!**/example*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS/editor cruft
+.DS_Store
+*.swp
